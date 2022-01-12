@@ -16,7 +16,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java-version>1.11</java-version>
-		<org.springframework-version>5.2.7.RELEASE</org.springframework-version>
+		<org.springframework-version>5.3.14</org.springframework-version>
 		<spring.security.version>4.1.2.RELEASE</spring.security.version>
 		<jstl.version>1.2</jstl.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
